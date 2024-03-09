@@ -1,3 +1,7 @@
- Make sure to delete any thing you dont want to use like the google sheet update
+ Make sure to delete anything you do not want to use like the Google sheet update
  Run the .py file using cmd
+
+
+
+ <h1>Installing</h1>
  
